@@ -7,7 +7,7 @@ I am going to design E2E SIP Based VOICE calling withHard (Physical) or Soft Pho
 Here are the list of things required for configuration.
 
 Brekeke SIP server (We will be using Brekeke Evaluation version which will be valid for 2 months) \
-- https://www.brekeke.com/downloads/sip-server.php \
+https://www.brekeke.com/downloads/sip-server.php \
 Switch for routing purpose \
 ONT \
 OLT \
